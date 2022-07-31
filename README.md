@@ -1,4 +1,3 @@
-Thank You xJayLee for starring me seven of your precious stars, Thank you for your generosity, May God on your side, Happy Coding!
 
 # Random-Terrain-Generator
 Create Random 3D Terrain With Diamond Square, Perlin Noise, Height-Map. 
